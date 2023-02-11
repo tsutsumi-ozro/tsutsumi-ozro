@@ -1,6 +1,8 @@
 ### GitHub README Profile
 
-[My Profile Site](https://tsutsumi-portfolio.wraptas.site/)
+[My Profile Site](https://tsutsumi-portfolio.wraptas.site/)<br>
+
+Interests: *Scholarly Document Processing*, ML, NLP in general.
 
 [![Ozro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsutsumi-ozro)](https://github.com/tsutsumi-ozro/github-readme-stats)
 
